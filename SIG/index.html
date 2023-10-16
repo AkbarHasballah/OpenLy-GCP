@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Map with OpenLayers</title>
+    <link rel="stylesheet" href="https://openlayers.org/en/v4.6.5/css/ol.css" type="text/css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <style>
+        .Stylenya{
+          padding: 10px;
+          margin: 10px;
+          border: 1px solid black;
+          border: transparent;
+          width: 200px;
+          background-color: rgb(126, 185, 236);
+          color: white;
+          border-radius: 30px;
+          text-align: center;
+        }
+        .Stylenya:hover{
+          padding: 10px;
+          margin: 10px;
+          border: 1px solid black;
+          border: transparent;
+          width: 200px;
+          background-color: rgb(255, 138, 20);
+          color: white;
+          border-radius: 30px;
+          text-align: center;
+          box-shadow: 5px 5px 5px 0 rgba(0, 0, 0, 0.5);
+        }
+        .Stylenya a{
+          color: white;
+          text-decoration: none;
+        }
+      </style>
+      
+      <div class="Stylenya">
+        <a href="../index.html">Open LY</a>
+      </div>
+   
+    <div id="hasil"></div>
+    <div id="map" class="map"></div>
+    <input type="hidden" id="idmarker" name="idmarker" value="">
+    
+    <div id="popupinfo" class="ol-popup">
+        <b id="popupinfo-title"></b>
+        <div id="popupinfo-content"></div>
+        <div id="popupinfo-delete">
+            <input type="hidden" id="idmarker" name="idmarker" value="">
+            <button id="hapusbutton" type="button">Hapus</button><button id="hitungcogbutton" type="button">Hitung COG</button><br>
+        </div>
+        
+    </div>
+
+    <div id="popup" class="ol-popup">
+        <b id="popup-title">Input Center of Gravity</b><a href="#" id="popup-closer" class="ol-popup-closer"></a>
+        <div id="popup-content"></div>
+        <div id="popup-input">
+            Nama : <input type="text" id="name" name="name" required><br>
+            Volume : <input type="text" id="volume" name="volume" required><br>
+            <input type="hidden" id="long" name="long" value="">
+            <input type="hidden" id="lat" name="lat" value="">
+            <button id="insertmarkerbutton" type="button">Input</button><br>
+        </div>
+    </div>
+    <button id="ambilData">Ambil Data dari API</button>
+    <div id="info-table">
+        <div class="point-table">
+                <h2>
+                    Nama    : Salman Akbar Hasbullah (1214073)
+                    
+                </h2>
+            <h1>Data Poin</h1>
+            <table id="pointTable" border="1">
+                <thead>
+                    <tr>
+                        <th>Nama</th>
+                        <th>Koordinat</th>
+                        <th>Type</th>
+                    </tr>
+                </thead>
+                <tbody></tbody>
+            </table>
+        </div>
+        
+        <div class="polygon-table">
+            <h1>Data Polygon</h1>
+            <table id="polygonTable" border="1">
+                <thead>
+                    <tr>
+                        <th>Nama</th>
+                        <th>Koordinat</th>
+                        <th>Type</th>
+                    </tr>
+                </thead>
+                <tbody></tbody>
+            </table>
+        </div>
+        
+        <div class="polyline-table">
+            <h1>Data Polyline</h1>
+            <table id="polylineTable" border="1">
+                <thead>
+                    <tr>
+                        <th>Nama</th>
+                        <th>Koordinat</th>
+                        <th>Type</th>
+                    </tr>
+                </thead>
+                <tbody></tbody>
+            </table>
+        </div>
+    </div>
+    <script src="https://openlayers.org/en/v4.6.5/build/ol.js"></script>
+    <script type="module" src="../SIG/script.js"></script>
+    <script type="module" src="../SIG/panggildongs.js"></script>
+    <script type="module" src="../SIG/app.js"></script>
+
+</body>
+</html>

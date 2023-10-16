@@ -1,0 +1,1267 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "name ": "jalan malabar"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              106.80751657862976,
+              -6.599210373322322
+            ],
+            [
+              106.80713042189808,
+              -6.597689205738391
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 0
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jln surya setra"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.58035571614448,
+              -6.878891484427044
+            ],
+            [
+              107.5797377631452,
+              -6.8792350469263255
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 1
+      },
+      {
+        "type": "Feature",
+        "properties": {},
+        "geometry": {
+          "coordinates": [
+            [
+              107.57525170051235,
+              -6.873795195068553
+            ],
+            [
+              107.57542578070883,
+              -6.873810008977713
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {},
+        "geometry": {
+          "coordinates": [
+            [
+              107.57600770593939,
+              -6.872980429364858
+            ],
+            [
+              107.57649015677094,
+              -6.873034747122091
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Universitas logistik dan bisnis internasional"
+        },
+        "geometry": {
+          "coordinates": [
+            107.57648020932993,
+            -6.873094002849953
+          ],
+          "type": "Point"
+        },
+        "id": 53
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jalan profesor dokter sutami"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.58388346319407,
+              -6.880014236193503
+            ],
+            [
+              107.58365925184313,
+              -6.879280490461483
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 5
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jalan Profesor Dokter Sutami"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.58381703020086,
+              -6.880129656767963
+            ],
+            [
+              107.58136731357922,
+              -6.880921111375457
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 6
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Jalan Setra Munri"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.581317488835,
+              -6.880772713736349
+            ],
+            [
+              107.58154170018719,
+              -6.880640804685498
+            ],
+            [
+              107.58168287029736,
+              -6.879816372288744
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 7
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Jalan setra murni "
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.58123444759286,
+              -6.879651485637311
+            ],
+            [
+              107.5816579579245,
+              -6.879733928969571
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 8
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "setra murni"
+        },
+        "geometry": {
+          "coordinates": [
+            107.58169947854498,
+            -6.879610263964565
+          ],
+          "type": "Point"
+        },
+        "id": 58
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Jalan Setra murni"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.58169863904686,
+              -6.879671383786615
+            ],
+            [
+              107.58174693820808,
+              -6.879323735987597
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 10
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Jalan surya setra"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.58179765232728,
+              -6.879297362696889
+            ],
+            [
+              107.582954417248,
+              -6.8795011562760635
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 11
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Jalan Suryasetra"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.58171291326187,
+              -6.879286643048971
+            ],
+            [
+              107.5814786623281,
+              -6.879217113454359
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 12
+      },
+      {
+        "type": "Feature",
+        "properties": {},
+        "geometry": {
+          "coordinates": [
+            [
+              107.58140958806098,
+              -6.879183389742678
+            ],
+            [
+              107.58114445808945,
+              -6.879094663460009
+            ],
+            [
+              107.58113088184086,
+              -6.878712692118654
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Jalan Sari mekar"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.58108758836426,
+              -6.8786817330610575
+            ],
+            [
+              107.58049203465714,
+              -6.878570049301203
+            ],
+            [
+              107.58035307212674,
+              -6.8786817330610575
+            ],
+            [
+              107.58018764054162,
+              -6.878878821984941
+            ],
+            [
+              107.58008507295852,
+              -6.878901815687598
+            ],
+            [
+              107.57991302410807,
+              -6.878855828282212
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 14
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jalan cilandak"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.58108758836426,
+              -6.8786226063680544
+            ],
+            [
+              107.58094200857056,
+              -6.878386099521379
+            ],
+            [
+              107.58086260140857,
+              -6.87762402110323
+            ],
+            [
+              107.58049865192038,
+              -6.877515621918647
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 15
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "cilandak"
+        },
+        "geometry": {
+          "coordinates": [
+            107.58040270160251,
+            -6.877587888044772
+          ],
+          "type": "Point"
+        },
+        "id": 65
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jalan cilandak"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.58005198664068,
+              -6.878412378065718
+            ],
+            [
+              107.58021410959424,
+              -6.878014914927476
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 17
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jalan sari rasa"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.5797731031476,
+              -6.877776504697479
+            ],
+            [
+              107.58016021305889,
+              -6.877950600250429
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 18
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jalan cilandak1"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.58027270653668,
+              -6.877884903822505
+            ],
+            [
+              107.58034218780193,
+              -6.877717377891827
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 19
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "setraria"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.58394722979426,
+              -6.880107100280924
+            ],
+            [
+              107.58432772244237,
+              -6.8800315497315125
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 20
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name ": "jalan Setraria"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.58419537717305,
+              -6.879512549980888
+            ],
+            [
+              107.58433433970555,
+              -6.87994614474853
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 21
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Jalan setraria"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.58444352455189,
+              -6.879978992820583
+            ],
+            [
+              107.58758011217446,
+              -6.8789902666532186
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 22
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name ": "Jalan Setraria"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.58765290207128,
+              -6.879341741615903
+            ],
+            [
+              107.58763635891336,
+              -6.879019829977736
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 23
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Jalan setraria"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.58769591428381,
+              -6.878944279256416
+            ],
+            [
+              107.5884800599992,
+              -6.878707772569925
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 24
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jalan sindang sirnaelok"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.58810949324783,
+              -6.879798330198753
+            ],
+            [
+              107.58847344273391,
+              -6.878743905543118
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 25
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name ": "jalan cipedes tengah 1"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.58855284989602,
+              -6.878691348489724
+            ],
+            [
+              107.58909877412725,
+              -6.878448272042149
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 26
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Jalan sindang sirana elok"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.58913168360556,
+              -6.877786832334394
+            ],
+            [
+              107.58913168360556,
+              -6.878345251792979
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 27
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Jalan cipedes tenah 1"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.58918131308133,
+              -6.878433941881539
+            ],
+            [
+              107.58935667056329,
+              -6.878410948156244
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 28
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jalan Cipedes Tengah 1"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.58936659645804,
+              -6.87844379633448
+            ],
+            [
+              107.58936990508965,
+              -6.878762423547599
+            ],
+            [
+              107.58970407689145,
+              -6.878893816150651
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 29
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jalan setra indah utara 2"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.58971069415475,
+              -6.878956227624997
+            ],
+            [
+              107.58962797836313,
+              -6.879169740499179
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 30
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jalan setra indah utara 2"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.58959820067685,
+              -6.8792682848706335
+            ],
+            [
+              107.58952871941165,
+              -6.879376683655153
+            ],
+            [
+              107.5893136583507,
+              -6.879317557047671
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 31
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Jalan setra indah utara 2"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.58928700665683,
+              -6.879407898711804
+            ],
+            [
+              107.5891382167166,
+              -6.880301596135936
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 32
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": " Jalan Cipedes Tengah"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.59087701853059,
+              -6.877747667090119
+            ],
+            [
+              107.59058967038612,
+              -6.877704721656585
+            ],
+            [
+              107.59048152861175,
+              -6.878299822314887
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 33
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jalan cipedes tengah II A"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.59057127334762,
+              -6.878324780882906
+            ],
+            [
+              107.59160943438275,
+              -6.878554845358195
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 34
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name ": "Jalan cipedes tengah 1"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.59023179658624,
+              -6.878343184240805
+            ],
+            [
+              107.59049133684505,
+              -6.8783309141332865
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 35
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name ": "jalan cipedes tengah"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.59050369590449,
+              -6.878355454348977
+            ],
+            [
+              107.59053768332006,
+              -6.878846258397289
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 36
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name jalan Cipedes Tengah 1": ""
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.59014219339929,
+              -6.878340116713218
+            ],
+            [
+              107.58940584667829,
+              -6.878383062092027
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 37
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jalan cipedes tengah 1"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.58978668722739,
+              -6.878905329700075
+            ],
+            [
+              107.59047879458541,
+              -6.878911464747432
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 38
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jalan cipedes tengah 2"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.59052205129365,
+              -6.878960545117636
+            ],
+            [
+              107.59049424340981,
+              -6.879331715252874
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 39
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jalan setra indah utara 2"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.58968163521797,
+              -6.879224352019776
+            ],
+            [
+              107.59006785584029,
+              -6.879362390457445
+            ],
+            [
+              107.59016054879021,
+              -6.879564846759365
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 40
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jalan cipedes tengah"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.5905096922341,
+              -6.879328647731441
+            ],
+            [
+              107.59075996319831,
+              -6.879340917814162
+            ],
+            [
+              107.59085265614829,
+              -6.879423740860673
+            ],
+            [
+              107.59103186251849,
+              -6.879466686138798
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 41
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jalan setra indah utara 2"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.5891192979883,
+              -6.879126191328851
+            ],
+            [
+              107.58907295151329,
+              -6.879248892189352
+            ],
+            [
+              107.58929232482876,
+              -6.879316377649346
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 42
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name ": "setra jaya"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.58974397044761,
+              -6.879683193801682
+            ],
+            [
+              107.58960184125777,
+              -6.880394857516535
+            ],
+            [
+              107.58962037984696,
+              -6.880726148881536
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 43
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jalan setra indah"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.58966054678882,
+              -6.880764492776123
+            ],
+            [
+              107.58981040038987,
+              -6.880856518107237
+            ],
+            [
+              107.58953883637889,
+              -6.882417828371658
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 44
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jalan setra indah 1"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.58952025754911,
+              -6.882470857609221
+            ],
+            [
+              107.58900933975332,
+              -6.8824869969403295
+            ],
+            [
+              107.58910920095798,
+              -6.88179761642526
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 45
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name ": "jlan setra indah 2"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.58922825685954,
+              -6.881173824686712
+            ],
+            [
+              107.58912142859276,
+              -6.881704118177922
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 46
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name ": "jalan setra indah 1"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.58894127336134,
+              -6.882492741507889
+            ],
+            [
+              107.58791943776805,
+              -6.882414350462511
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 47
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "gang sari jadi 2"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.58003858839908,
+              -6.87627494957006
+            ],
+            [
+              107.57966918917174,
+              -6.876116640801172
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 48
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "gang sarijadi 1"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.57995186065551,
+              -6.8764188665895745
+            ],
+            [
+              107.57960395729123,
+              -6.876246166162318
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 49
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "gang sari jadi 3"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.58006782844353,
+              -6.8761238366552675
+            ],
+            [
+              107.57969818111985,
+              -6.876015898828271
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 50
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name ": "jalan sari jadi raya"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.57998810059013,
+              -6.875706476923227
+            ],
+            [
+              107.58035049992736,
+              -6.874878952231256
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 51
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jalan sari jadi raya"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.58032150797914,
+              -6.8748645604852925
+            ],
+            [
+              107.58000259656308,
+              -6.87475662237226
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 52
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name ": "jalan sari asih 2"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.57763250489376,
+              -6.875397054815608
+            ],
+            [
+              107.57925605392694,
+              -6.876087857382686
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 53
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jalan sarimanah - jalan sarikasih 1"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.57871245492117,
+              -6.875289116823524
+            ],
+            [
+              107.57792242436398,
+              -6.877037709271306
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 54
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jalan perumahan sarimanah 3"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.57792242436398,
+              -6.876922575810056
+            ],
+            [
+              107.57603794780869,
+              -6.876102249091602
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 55
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jalan sari manah 2"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.57652356292044,
+              -6.875238745753094
+            ],
+            [
+              107.5757770202867,
+              -6.877016121750316
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 56
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jalan perumahan sari manah"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.57641484311893,
+              -6.875598539001416
+            ],
+            [
+              107.57795866429865,
+              -6.876303732978357
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 57
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jalan perumahan sari manah 2"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.57640034714598,
+              -6.875900765119368
+            ],
+            [
+              107.57786444046991,
+              -6.8765699794117126
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 58
+      },
+      {
+        "type": "Feature",
+        "properties": {},
+        "geometry": {
+          "coordinates": [
+            [
+              107.57738607334466,
+              -6.875706476923227
+            ],
+            [
+              107.57674100252376,
+              -6.87710966767095
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jalan sari asih"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.5774078173041,
+              -6.875684889340647
+            ],
+            [
+              107.57926330191344,
+              -6.876512412627875
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 60
+      }
+    ]
+  }
