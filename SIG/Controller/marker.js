@@ -4,7 +4,7 @@ import VectorSource from 'https://cdn.skypack.dev/ol/source/Vector.js';
 import {Vector as VectorLayer} from 'https://cdn.skypack.dev/ol/layer.js';
 import {fromLonLat} from 'https://cdn.skypack.dev/ol/proj.js';
 import {Icon, Style} from 'https://cdn.skypack.dev/ol/style.js';
-import {map,idmarker} from '../config/configpeta.js';
+import {map,idmarker} from '../Model/config.js';
 
 export function insertMarker(name,long,lat,volume){
     let marker = new Feature({
@@ -20,7 +20,7 @@ export function insertMarker(name,long,lat,volume){
             anchor: [0.5, 46],
             anchorXUnits: 'fraction',
             anchorYUnits: 'pixels',
-            src: 'img/icon.png',
+            src: 'icon',
           }),
         })
       );

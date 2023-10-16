@@ -1,4 +1,4 @@
-import {map,idmarker} from '../config/configpeta.js';
+import {map,idmarker} from '../Model/config.js';
 import {insertMarkerCOG} from './marker.js';
 import {disposePopover} from './popup.js';
 import {hide} from 'https://jscroot.github.io/element/croot.js';

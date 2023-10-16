@@ -1,6 +1,6 @@
 import {setInner,addChild } from "https://jscroot.github.io/element/croot.js";
-import {tableTemplate, tableRowClass, tableTag} from "../template/template.js";
-import {map} from '../config/configpeta.js';
+import {tableTemplate, tableRowClass, tableTag} from "../View/template.js";
+import {map} from '../Model/config.js';
 
 export function isiRowPoint(value){
     if (value.geometry.type === "Point") {
